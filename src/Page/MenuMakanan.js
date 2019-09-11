@@ -67,7 +67,7 @@ class MenuMakanan extends Component {
 					return (
 						<div key={data} >
 							<p>
-								{data.listMakanan} | Harga Rp. {data.Harga} 
+								{data.Makanan} | Harga Rp. {data.Harga} 
 							</p>
 						</div>
 					);
